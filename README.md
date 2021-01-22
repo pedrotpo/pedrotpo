@@ -1,6 +1,9 @@
 # Hello peeps! 👋
 Sou o Pedro, um desenvolvedor Full-Stack com uma queda pelo front-end, uma relação estável com o back-end e flertando discaradamente com data science e machine learning. Atualmente estou estudando na [Trybe](www.betrybe.com) (#GoTrybe!) e buscando uma oportunidade pra mostrar meu trabalho.
 
+## Techs
+HTML | CSS | SASS | Javascript | React | Node.js | Python | SQL | MongoDB | 
+
 ## Atualmente estou...
 - Refatorando meu projeto Cookmaster (styling e implementar upload de imagens ao DB):
 
