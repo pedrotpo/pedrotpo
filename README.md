@@ -5,9 +5,9 @@ Sou o Pedro, um desenvolvedor Full-Stack com uma queda pelo front-end, uma relaÃ
 HTML | CSS | SASS | ChakraUI | Tailwind | Javascript | React | Node.js | Express.js | Python | SQL | MongoDB
 
 ## Atualmente estou...
-- Refatorando meu projeto Cookmaster (styling e implementar upload de imagens ao DB):
+- Trabalhando no styling do projeto Trybeer-V2:
 
-[![Cookmaster card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotpo&repo=trybeer-v2&theme=vue-dark)](https://github.com/pedrotpo/sd-04-project-trybeer-v2)
+[![Trybeer card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotpo&repo=sd-04-project-trybeer-v2&theme=vue-dark)](https://github.com/pedrotpo/sd-04-project-trybeer-v2)
 
 ## VocÃª me encontra aqui:
 **E-Mail** [pedrotpoliveira@gmail.com](mailto:pedrotpoliveira@gmail.com) **|** 
