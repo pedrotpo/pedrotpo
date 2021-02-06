@@ -7,7 +7,7 @@ HTML | CSS | SASS | ChakraUI | Tailwind | Javascript | React | Node.js | Express
 ## Atualmente estou...
 - Refatorando meu projeto Cookmaster (styling e implementar upload de imagens ao DB):
 
-[![Cookmaster card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotpo&repo=cookmaster-mvc&theme=vue-dark)](https://github.com/pedrotpo/cookmaster-mvc)
+[![Cookmaster card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotpo&repo=trybeer-v2&theme=vue-dark)](https://github.com/pedrotpo/sd-04-project-trybeer-v2)
 
 ## Você me encontra aqui:
 **E-Mail** [pedrotpoliveira@gmail.com](mailto:pedrotpoliveira@gmail.com) **|** 
