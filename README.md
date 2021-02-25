@@ -7,7 +7,7 @@ HTML | CSS | SASS | ChakraUI | Tailwind | Javascript | React | Node.js | Express
 ## Atualmente estou...
 - Trabalhando no styling do projeto Trybeer-V2:
 
-[![Trybeer card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotpo&repo=sd-04-project-trybeer-v2&theme=vue-dark)](https://github.com/pedrotpo/sd-04-project-trybeer-v2)
+[![Beerme card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotpo&repo=beerme&theme=vue-dark)](https://github.com/pedrotpo/beerme)
 
 ## Você me encontra aqui:
 **E-Mail** [pedrotpoliveira@gmail.com](mailto:pedrotpoliveira@gmail.com) **|** 
