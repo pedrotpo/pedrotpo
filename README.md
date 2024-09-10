@@ -13,6 +13,6 @@ Typescript | React | Node.js | Python | Django | SQL | MongoDB
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrotpo&repo=tsl_wallapp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pedrotpo/tsl_wallapp)
 
 ## Você me encontra aqui/Find me at:
-**E-Mail** [pedrotpoliveira@gmail.com](mailto:pedrotpoliveira@gmail.com) **|** 
-**LinkedIn** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrotpires/) **|** 
-**Medium** [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pedrotpo)
+[pedrotpoliveira@gmail.com](mailto:pedrotpoliveira@gmail.com) **|** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrotpires/) **|** 
+[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pedrotpo)
